@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "airbnb-base",
+    "plugin:react/recommended"
+  ],
+  "parser": "babel-eslint",
+  "rules": {
+    "class-methods-use-this": "off"
+  }
+}

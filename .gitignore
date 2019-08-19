@@ -1,0 +1,11 @@
+/node_modules
+*.swo
+*.swp
+.DS_Store
+*.log
+repositories
+.node-persist
+test/coverage
+.plugins
+.next
+out
